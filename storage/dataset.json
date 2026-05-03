@@ -1,0 +1,1850 @@
+[
+  {
+    "id": 1,
+    "question": "Impact of Social Networking Sites",
+    "category": "Group Discussion",
+    "source": "IndiaBIX",
+    "url": "https://www.indiabix.com/group-discussion/impact-of-social-networking-sites/",
+    "tokens": [
+      "impact",
+      "social",
+      "networking",
+      "sites"
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Is Social Media Actually Connecting People?",
+    "category": "Group Discussion",
+    "source": "IndiaBIX",
+    "url": "https://www.indiabix.com/group-discussion/is-social-media-actually-connecting-people/",
+    "tokens": [
+      "social",
+      "media",
+      "actually",
+      "connecting",
+      "people"
+    ]
+  },
+  {
+    "id": 3,
+    "question": "Tobacco must be banned. Yes or No.",
+    "category": "Group Discussion",
+    "source": "IndiaBIX",
+    "url": "https://www.indiabix.com/group-discussion/tobacco-must-be-banned-yes-or-no/",
+    "tokens": [
+      "tobacco",
+      "must",
+      "be",
+      "banned",
+      "yes",
+      "or",
+      "no"
+    ]
+  },
+  {
+    "id": 4,
+    "question": "Mars Mission for India Justified?",
+    "category": "Group Discussion",
+    "source": "IndiaBIX",
+    "url": "https://www.indiabix.com/group-discussion/mars-mission-for-india-justified/",
+    "tokens": [
+      "mars",
+      "mission",
+      "india",
+      "justified"
+    ]
+  },
+  {
+    "id": 5,
+    "question": "Is India ready for Electric Vehicles?",
+    "category": "Group Discussion",
+    "source": "IndiaBIX",
+    "url": "https://www.indiabix.com/group-discussion/is-india-ready-for-electric-vehicles/",
+    "tokens": [
+      "india",
+      "ready",
+      "electric",
+      "vehicles"
+    ]
+  },
+  {
+    "id": 6,
+    "question": "Walmart and Flipkart Deal: Impact on Indian Economy",
+    "category": "Group Discussion",
+    "source": "IndiaBIX",
+    "url": "https://www.indiabix.com/group-discussion/walmart-and-flipkart-deal-impact-on-indian-economy/",
+    "tokens": [
+      "walmart",
+      "and",
+      "flipkart",
+      "deal",
+      "impact",
+      "indian",
+      "economy"
+    ]
+  },
+  {
+    "id": 7,
+    "question": "Role of Engineers in Disaster Management",
+    "category": "Group Discussion",
+    "source": "IndiaBIX",
+    "url": "https://www.indiabix.com/group-discussion/role-of-engineers-in-disaster-management/",
+    "tokens": [
+      "role",
+      "engineers",
+      "disaster",
+      "management"
+    ]
+  },
+  {
+    "id": 8,
+    "question": "Which is more important: Creativity or Efficiency?",
+    "category": "Group Discussion",
+    "source": "IndiaBIX",
+    "url": "https://www.indiabix.com/group-discussion/which-is-more-important-creativity-or-efficiency/",
+    "tokens": [
+      "which",
+      "more",
+      "important",
+      "creativity",
+      "or",
+      "efficiency"
+    ]
+  },
+  {
+    "id": 9,
+    "question": "Should India have a One Child Policy?",
+    "category": "Group Discussion",
+    "source": "IndiaBIX",
+    "url": "https://www.indiabix.com/group-discussion/should-india-have-a-one-child-policy/",
+    "tokens": [
+      "should",
+      "india",
+      "have",
+      "one",
+      "child",
+      "policy"
+    ]
+  },
+  {
+    "id": 10,
+    "question": "Farmers' Income: Will India be able to double it in next 5 years?",
+    "category": "Group Discussion",
+    "source": "IndiaBIX",
+    "url": "https://www.indiabix.com/group-discussion/farmers-income-will-india-be-able-to-double-it-in-next-5-years/",
+    "tokens": [
+      "farmers",
+      "income",
+      "will",
+      "india",
+      "be",
+      "able",
+      "double",
+      "it",
+      "next",
+      "5",
+      "years"
+    ]
+  },
+  {
+    "id": 11,
+    "question": "Difficulties in Implementation of Climate Change Summit Resolutions",
+    "category": "Group Discussion",
+    "source": "IndiaBIX",
+    "url": "https://www.indiabix.com/group-discussion/difficulties-in-implementation-of-climate-change-summit-resolutions/",
+    "tokens": [
+      "difficulties",
+      "implementation",
+      "climate",
+      "change",
+      "summit",
+      "resolutions"
+    ]
+  },
+  {
+    "id": 12,
+    "question": "Gold Monetization Scheme",
+    "category": "Group Discussion",
+    "source": "IndiaBIX",
+    "url": "https://www.indiabix.com/group-discussion/gold-monetization-scheme/",
+    "tokens": [
+      "gold",
+      "monetization",
+      "scheme"
+    ]
+  },
+  {
+    "id": 13,
+    "question": "Regional languages in India are fading out in today's world.",
+    "category": "Group Discussion",
+    "source": "IndiaBIX",
+    "url": "https://www.indiabix.com/group-discussion/regional-languages-in-india-are-fading-out-in-todays-world/",
+    "tokens": [
+      "regional",
+      "languages",
+      "india",
+      "are",
+      "fading",
+      "out",
+      "todays",
+      "world"
+    ]
+  },
+  {
+    "id": 14,
+    "question": "Should Triple Talaq be Banned in India or Not?",
+    "category": "Group Discussion",
+    "source": "IndiaBIX",
+    "url": "https://www.indiabix.com/group-discussion/should-triple-talaq-be-banned-in-india-or-not/",
+    "tokens": [
+      "should",
+      "triple",
+      "talaq",
+      "be",
+      "banned",
+      "india",
+      "or",
+      "not"
+    ]
+  },
+  {
+    "id": 15,
+    "question": "Will Indian economy grow faster with reduced Goods and Services Tax (GST)?",
+    "category": "Group Discussion",
+    "source": "IndiaBIX",
+    "url": "https://www.indiabix.com/group-discussion/will-indian-economy-grow-faster-with-reduced-goods-and-services-tax-gst/",
+    "tokens": [
+      "will",
+      "indian",
+      "economy",
+      "grow",
+      "faster",
+      "with",
+      "reduced",
+      "goods",
+      "and",
+      "services",
+      "tax",
+      "gst"
+    ]
+  },
+  {
+    "id": 16,
+    "question": "Is GST really a One nation, One tax system?",
+    "category": "Group Discussion",
+    "source": "IndiaBIX",
+    "url": "https://www.indiabix.com/group-discussion/is-gst-really-a-one-nation-one-tax-system/",
+    "tokens": [
+      "gst",
+      "really",
+      "one",
+      "nation",
+      "one",
+      "tax",
+      "system"
+    ]
+  },
+  {
+    "id": 17,
+    "question": "Make in India vs Make for India",
+    "category": "Group Discussion",
+    "source": "IndiaBIX",
+    "url": "https://www.indiabix.com/group-discussion/make-in-india-vs-make-for-india/",
+    "tokens": [
+      "make",
+      "india",
+      "vs",
+      "make",
+      "india"
+    ]
+  },
+  {
+    "id": 18,
+    "question": "Black Money in India",
+    "category": "Group Discussion",
+    "source": "IndiaBIX",
+    "url": "https://www.indiabix.com/group-discussion/black-money-in-india/",
+    "tokens": [
+      "black",
+      "money",
+      "india"
+    ]
+  },
+  {
+    "id": 19,
+    "question": "Future of Sports in India",
+    "category": "Group Discussion",
+    "source": "IndiaBIX",
+    "url": "https://www.indiabix.com/group-discussion/future-of-sports-in-india/",
+    "tokens": [
+      "future",
+      "sports",
+      "india"
+    ]
+  },
+  {
+    "id": 20,
+    "question": "Future of Crypto Currencies",
+    "category": "Group Discussion",
+    "source": "IndiaBIX",
+    "url": "https://www.indiabix.com/group-discussion/future-of-crypto-currencies/",
+    "tokens": [
+      "future",
+      "crypto",
+      "currencies"
+    ]
+  },
+  {
+    "id": 21,
+    "question": "Is the World Ready for Cashless Currency?",
+    "category": "Group Discussion",
+    "source": "IndiaBIX",
+    "url": "https://www.indiabix.com/group-discussion/is-the-world-ready-for-cashless-currency/",
+    "tokens": [
+      "world",
+      "ready",
+      "cashless",
+      "currency"
+    ]
+  },
+  {
+    "id": 22,
+    "question": "Demonetisation has reduced the Corruption, Black Money and Terrorism?",
+    "category": "Group Discussion",
+    "source": "IndiaBIX",
+    "url": "https://www.indiabix.com/group-discussion/demonetisation-has-reduced-the-corruption-black-money-and-terrorism/",
+    "tokens": [
+      "demonetisation",
+      "has",
+      "reduced",
+      "corruption",
+      "black",
+      "money",
+      "and",
+      "terrorism"
+    ]
+  },
+  {
+    "id": 23,
+    "question": "Education industry is a business these days.",
+    "category": "Group Discussion",
+    "source": "IndiaBIX",
+    "url": "https://www.indiabix.com/group-discussion/education-industry-is-a-business-these-days/",
+    "tokens": [
+      "education",
+      "industry",
+      "business",
+      "these",
+      "days"
+    ]
+  },
+  {
+    "id": 24,
+    "question": "Whether Digital Education has taken over Traditional Education?",
+    "category": "Group Discussion",
+    "source": "IndiaBIX",
+    "url": "https://www.indiabix.com/group-discussion/whether-digital-education-has-taken-over-traditional-education/",
+    "tokens": [
+      "whether",
+      "digital",
+      "education",
+      "has",
+      "taken",
+      "over",
+      "traditional",
+      "education"
+    ]
+  },
+  {
+    "id": 25,
+    "question": "Impact of Technology on Jobs",
+    "category": "Group Discussion",
+    "source": "IndiaBIX",
+    "url": "https://www.indiabix.com/group-discussion/impact-of-technology-on-jobs/",
+    "tokens": [
+      "impact",
+      "technology",
+      "jobs"
+    ]
+  },
+  {
+    "id": 26,
+    "question": "Making Aadhaar Mandatory: Benefits and Drawbacks",
+    "category": "Group Discussion",
+    "source": "IndiaBIX",
+    "url": "https://www.indiabix.com/group-discussion/making-aadhaar-mandatory-benefits-and-drawbacks/",
+    "tokens": [
+      "making",
+      "aadhaar",
+      "mandatory",
+      "benefits",
+      "and",
+      "drawbacks"
+    ]
+  },
+  {
+    "id": 27,
+    "question": "Is the Aadhaar database secured enough?",
+    "category": "Group Discussion",
+    "source": "IndiaBIX",
+    "url": "https://www.indiabix.com/group-discussion/is-the-aadhaar-database-secured-enough/",
+    "tokens": [
+      "aadhaar",
+      "database",
+      "secured",
+      "enough"
+    ]
+  },
+  {
+    "id": 28,
+    "question": "Merits and Demerits of Cashless Economy",
+    "category": "Group Discussion",
+    "source": "IndiaBIX",
+    "url": "https://www.indiabix.com/group-discussion/merits-and-demerits-of-cashless-economy/",
+    "tokens": [
+      "merits",
+      "and",
+      "demerits",
+      "cashless",
+      "economy"
+    ]
+  },
+  {
+    "id": 29,
+    "question": "Digital India: Whom Does it Benefit?",
+    "category": "Group Discussion",
+    "source": "IndiaBIX",
+    "url": "https://www.indiabix.com/group-discussion/digital-india-whom-does-it-benefit/",
+    "tokens": [
+      "digital",
+      "india",
+      "whom",
+      "does",
+      "it",
+      "benefit"
+    ]
+  },
+  {
+    "id": 30,
+    "question": "Problems unite us, Religion divides us",
+    "category": "Group Discussion",
+    "source": "IndiaBIX",
+    "url": "https://www.indiabix.com/group-discussion/problems-unite-us-religion-divides-us/",
+    "tokens": [
+      "problems",
+      "unite",
+      "us",
+      "religion",
+      "divides",
+      "us"
+    ]
+  },
+  {
+    "id": 31,
+    "question": "Can we dream of hosting the Olympics?",
+    "category": "Group Discussion",
+    "source": "IndiaBIX",
+    "url": "https://www.indiabix.com/group-discussion/can-we-dream-of-hosting-the-olympics/",
+    "tokens": [
+      "can",
+      "we",
+      "dream",
+      "hosting",
+      "olympics"
+    ]
+  },
+  {
+    "id": 32,
+    "question": "EQ or IQ",
+    "category": "Group Discussion",
+    "source": "IndiaBIX",
+    "url": "https://www.indiabix.com/group-discussion/eq-or-iq/",
+    "tokens": [
+      "eq",
+      "or",
+      "iq"
+    ]
+  },
+  {
+    "id": 33,
+    "question": "Economic growth is more important than Ecological protection",
+    "category": "Group Discussion",
+    "source": "IndiaBIX",
+    "url": "https://www.indiabix.com/group-discussion/economic-growth-is-more-important-than-ecological-protection/",
+    "tokens": [
+      "economic",
+      "growth",
+      "more",
+      "important",
+      "than",
+      "ecological",
+      "protection"
+    ]
+  },
+  {
+    "id": 34,
+    "question": "Solution of corruption is a mirage till we catch top public figure",
+    "category": "Group Discussion",
+    "source": "IndiaBIX",
+    "url": "https://www.indiabix.com/group-discussion/solution-of-corruption-is-a-mirage-till-we-catch-top-public-figure/",
+    "tokens": [
+      "solution",
+      "corruption",
+      "mirage",
+      "till",
+      "we",
+      "catch",
+      "top",
+      "public",
+      "figure"
+    ]
+  },
+  {
+    "id": 35,
+    "question": "Non execution of GST bill might herald end of present government",
+    "category": "Group Discussion",
+    "source": "IndiaBIX",
+    "url": "https://www.indiabix.com/group-discussion/nonexecution-of-gst-bill-might-herald-end-of-present-government/",
+    "tokens": [
+      "non",
+      "execution",
+      "gst",
+      "bill",
+      "might",
+      "herald",
+      "end",
+      "present",
+      "government"
+    ]
+  },
+  {
+    "id": 36,
+    "question": "Is the youth of India confident or confused?",
+    "category": "Group Discussion",
+    "source": "IndiaBIX",
+    "url": "https://www.indiabix.com/group-discussion/is-the-youth-of-india-confident-or-confused/",
+    "tokens": [
+      "youth",
+      "india",
+      "confident",
+      "or",
+      "confused"
+    ]
+  },
+  {
+    "id": 37,
+    "question": "Youth in Politics",
+    "category": "Group Discussion",
+    "source": "IndiaBIX",
+    "url": "https://www.indiabix.com/group-discussion/youth-in-politics/",
+    "tokens": [
+      "youth",
+      "politics"
+    ]
+  },
+  {
+    "id": 38,
+    "question": "Chinese Goods vs Indian Goods",
+    "category": "Group Discussion",
+    "source": "IndiaBIX",
+    "url": "https://www.indiabix.com/group-discussion/chinese-goods-vs-indian-goods/",
+    "tokens": [
+      "chinese",
+      "goods",
+      "vs",
+      "indian",
+      "goods"
+    ]
+  },
+  {
+    "id": 39,
+    "question": "Is compulsory attendance really needed in college?",
+    "category": "Group Discussion",
+    "source": "IndiaBIX",
+    "url": "https://www.indiabix.com/group-discussion/is-compulsory-attendance-really-needed-in-college/",
+    "tokens": [
+      "compulsory",
+      "attendance",
+      "really",
+      "needed",
+      "college"
+    ]
+  },
+  {
+    "id": 40,
+    "question": "Should national anthem be played in cinema halls?",
+    "category": "Group Discussion",
+    "source": "IndiaBIX",
+    "url": "https://www.indiabix.com/group-discussion/should-national-anthem-be-played-in-cinema-halls/",
+    "tokens": [
+      "should",
+      "national",
+      "anthem",
+      "be",
+      "played",
+      "cinema",
+      "halls"
+    ]
+  },
+  {
+    "id": 41,
+    "question": "Is it fair to spare political parties from income tax investigation?",
+    "category": "Group Discussion",
+    "source": "IndiaBIX",
+    "url": "https://www.indiabix.com/group-discussion/is-it-fair-to-spare-political-parties-from-income-tax-investigation/",
+    "tokens": [
+      "it",
+      "fair",
+      "spare",
+      "political",
+      "parties",
+      "from",
+      "income",
+      "tax",
+      "investigation"
+    ]
+  },
+  {
+    "id": 42,
+    "question": "Should we change the present system of education in our country?",
+    "category": "Group Discussion",
+    "source": "IndiaBIX",
+    "url": "https://www.indiabix.com/group-discussion/should-we-change-the-present-system-of-education-in-our-country/",
+    "tokens": [
+      "should",
+      "we",
+      "change",
+      "present",
+      "system",
+      "education",
+      "our",
+      "country"
+    ]
+  },
+  {
+    "id": 43,
+    "question": "One India One Election - Pros and Cons",
+    "category": "Group Discussion",
+    "source": "IndiaBIX",
+    "url": "https://www.indiabix.com/group-discussion/one-india-one-election-pros-and-cons/",
+    "tokens": [
+      "one",
+      "india",
+      "one",
+      "election",
+      "pros",
+      "and",
+      "cons"
+    ]
+  },
+  {
+    "id": 44,
+    "question": "Should Hindi be the official language of India?",
+    "category": "Group Discussion",
+    "source": "IndiaBIX",
+    "url": "https://www.indiabix.com/group-discussion/should-hindi-be-the-official-language-of-india/",
+    "tokens": [
+      "should",
+      "hindi",
+      "be",
+      "official",
+      "language",
+      "india"
+    ]
+  },
+  {
+    "id": 45,
+    "question": "PM's vision to make India a Manufacturing Hub - dream or a practical possibility?",
+    "category": "Group Discussion",
+    "source": "IndiaBIX",
+    "url": "https://www.indiabix.com/group-discussion/pms-vision-to-make-india-a-manufacturing-hub-dream-or-a-practical-possibility/",
+    "tokens": [
+      "pms",
+      "vision",
+      "make",
+      "india",
+      "manufacturing",
+      "hub",
+      "dream",
+      "or",
+      "practical",
+      "possibility"
+    ]
+  },
+  {
+    "id": 46,
+    "question": "Polythene bags must be banned!",
+    "category": "Group Discussion",
+    "source": "IndiaBIX",
+    "url": "https://www.indiabix.com/group-discussion/polythene-bags-must-be-banned/",
+    "tokens": [
+      "polythene",
+      "bags",
+      "must",
+      "be",
+      "banned"
+    ]
+  },
+  {
+    "id": 47,
+    "question": "Do we really need Smart Cities?",
+    "category": "Group Discussion",
+    "source": "IndiaBIX",
+    "url": "https://www.indiabix.com/group-discussion/do-we-really-need-smart-cities/",
+    "tokens": [
+      "do",
+      "we",
+      "really",
+      "need",
+      "smart",
+      "cities"
+    ]
+  },
+  {
+    "id": 48,
+    "question": "How is Technology impacting the Banking sector?",
+    "category": "Group Discussion",
+    "source": "IndiaBIX",
+    "url": "https://www.indiabix.com/group-discussion/how-is-technology-impacting-the-banking-sector/",
+    "tokens": [
+      "how",
+      "technology",
+      "impacting",
+      "banking",
+      "sector"
+    ]
+  },
+  {
+    "id": 49,
+    "question": "Will Reliance Jio be a sustainable business model in a country like India?",
+    "category": "Group Discussion",
+    "source": "IndiaBIX",
+    "url": "https://www.indiabix.com/group-discussion/will-reliance-jio-be-a-sustainable-business-model-in-a-country-like-india/",
+    "tokens": [
+      "will",
+      "reliance",
+      "jio",
+      "be",
+      "sustainable",
+      "business",
+      "model",
+      "country",
+      "like",
+      "india"
+    ]
+  },
+  {
+    "id": 50,
+    "question": "Facebook needs to clarify policies on content removal!",
+    "category": "Group Discussion",
+    "source": "IndiaBIX",
+    "url": "https://www.indiabix.com/group-discussion/facebook-needs-to-clarify-policies-on-content-removal/",
+    "tokens": [
+      "facebook",
+      "needs",
+      "clarify",
+      "policies",
+      "content",
+      "removal"
+    ]
+  },
+  {
+    "id": 51,
+    "question": "Ban 500, 1000 notes - Corruption Uprooted or just changing clothes!",
+    "category": "Group Discussion",
+    "source": "IndiaBIX",
+    "url": "https://www.indiabix.com/group-discussion/ban-500-1000-notes-corruption-uprooted-or-just-changing-clothes/",
+    "tokens": [
+      "ban",
+      "500",
+      "1000",
+      "notes",
+      "corruption",
+      "uprooted",
+      "or",
+      "just",
+      "changing",
+      "clothes"
+    ]
+  },
+  {
+    "id": 52,
+    "question": "How demonetization is affecting common people more than black money holders?",
+    "category": "Group Discussion",
+    "source": "IndiaBIX",
+    "url": "https://www.indiabix.com/group-discussion/how-demonetization-is-affecting-common-people-more-than-black-money-holders/",
+    "tokens": [
+      "how",
+      "demonetization",
+      "affecting",
+      "common",
+      "people",
+      "more",
+      "than",
+      "black",
+      "money",
+      "holders"
+    ]
+  },
+  {
+    "id": 53,
+    "question": "Are digital payments secure enough for the Indian economy to go cashless?",
+    "category": "Group Discussion",
+    "source": "IndiaBIX",
+    "url": "https://www.indiabix.com/group-discussion/are-digital-payments-secure-enough-for-the-indian-economy-to-go-cashless/",
+    "tokens": [
+      "are",
+      "digital",
+      "payments",
+      "secure",
+      "enough",
+      "indian",
+      "economy",
+      "go",
+      "cashless"
+    ]
+  },
+  {
+    "id": 54,
+    "question": "Extra curricular activities should be made compulsory in school",
+    "category": "Group Discussion",
+    "source": "IndiaBIX",
+    "url": "https://www.indiabix.com/group-discussion/extracurricular-activities-should-be-made-compulsory-in-school/",
+    "tokens": [
+      "extra",
+      "curricular",
+      "activities",
+      "should",
+      "be",
+      "made",
+      "compulsory",
+      "school"
+    ]
+  },
+  {
+    "id": 55,
+    "question": "Should voters be given a NOTA (None Of The Above) choice?",
+    "category": "Group Discussion",
+    "source": "IndiaBIX",
+    "url": "https://www.indiabix.com/group-discussion/should-voters-be-given-a-nota-none-of-the-above-choice/",
+    "tokens": [
+      "should",
+      "voters",
+      "be",
+      "given",
+      "nota",
+      "none",
+      "above",
+      "choice"
+    ]
+  },
+  {
+    "id": 56,
+    "question": "India should go for the presidential form of democracy",
+    "category": "Group Discussion",
+    "source": "IndiaBIX",
+    "url": "https://www.indiabix.com/group-discussion/india-should-go-for-the-presidential-form-of-democracy/",
+    "tokens": [
+      "india",
+      "should",
+      "go",
+      "presidential",
+      "form",
+      "democracy"
+    ]
+  },
+  {
+    "id": 57,
+    "question": "Decreasing defense expenditure and increasing social expenditure is the need of the hour",
+    "category": "Group Discussion",
+    "source": "IndiaBIX",
+    "url": "https://www.indiabix.com/group-discussion/decreasing-defense-expenditure-and-increasing-social-expenditure-is-the-need-of-the-hour/",
+    "tokens": [
+      "decreasing",
+      "defense",
+      "expenditure",
+      "and",
+      "increasing",
+      "social",
+      "expenditure",
+      "need",
+      "hour"
+    ]
+  },
+  {
+    "id": 58,
+    "question": "Reservations in the Private Sector",
+    "category": "Group Discussion",
+    "source": "IndiaBIX",
+    "url": "https://www.indiabix.com/group-discussion/reservations-in-the-private-sector/",
+    "tokens": [
+      "reservations",
+      "private",
+      "sector"
+    ]
+  },
+  {
+    "id": 59,
+    "question": "Presidential v/s Parliamentary Form of Government in India",
+    "category": "Group Discussion",
+    "source": "IndiaBIX",
+    "url": "https://www.indiabix.com/group-discussion/presidential-v-s-parliamentary-form-of-government-in-india/",
+    "tokens": [
+      "presidential",
+      "vs",
+      "parliamentary",
+      "form",
+      "government",
+      "india"
+    ]
+  },
+  {
+    "id": 60,
+    "question": "Should Tainted Ministers Allowed to Contest Elections?",
+    "category": "Group Discussion",
+    "source": "IndiaBIX",
+    "url": "https://www.indiabix.com/group-discussion/should-tainted-ministers-allowed-to-contest-elections/",
+    "tokens": [
+      "should",
+      "tainted",
+      "ministers",
+      "allowed",
+      "contest",
+      "elections"
+    ]
+  },
+  {
+    "id": 61,
+    "question": "Democracy is Hampering India's Progress",
+    "category": "Group Discussion",
+    "source": "IndiaBIX",
+    "url": "https://www.indiabix.com/group-discussion/democracy-is-hampering-indias-progress/",
+    "tokens": [
+      "democracy",
+      "hampering",
+      "indias",
+      "progress"
+    ]
+  },
+  {
+    "id": 62,
+    "question": "Religion should not be mixed with politics",
+    "category": "Group Discussion",
+    "source": "IndiaBIX",
+    "url": "https://www.indiabix.com/group-discussion/religion-should-not-be-mixed-with-politics/",
+    "tokens": [
+      "religion",
+      "should",
+      "not",
+      "be",
+      "mixed",
+      "with",
+      "politics"
+    ]
+  },
+  {
+    "id": 63,
+    "question": "Value-based Politics is the Need of the Hour",
+    "category": "Group Discussion",
+    "source": "IndiaBIX",
+    "url": "https://www.indiabix.com/group-discussion/value-based-politics-is-the-need-of-the-hour/",
+    "tokens": [
+      "valuebased",
+      "politics",
+      "need",
+      "hour"
+    ]
+  },
+  {
+    "id": 64,
+    "question": "What India needs is a Dictatorship?",
+    "category": "Group Discussion",
+    "source": "IndiaBIX",
+    "url": "https://www.indiabix.com/group-discussion/what-india-needs-is-a-dictatorship/",
+    "tokens": [
+      "what",
+      "india",
+      "needs",
+      "dictatorship"
+    ]
+  },
+  {
+    "id": 65,
+    "question": "Corruption is the Price we pay for Democracy",
+    "category": "Group Discussion",
+    "source": "IndiaBIX",
+    "url": "https://www.indiabix.com/group-discussion/corruption-is-the-price-we-pay-for-democracy/",
+    "tokens": [
+      "corruption",
+      "price",
+      "we",
+      "pay",
+      "democracy"
+    ]
+  },
+  {
+    "id": 66,
+    "question": "Retirement Age for Politicians",
+    "category": "Group Discussion",
+    "source": "IndiaBIX",
+    "url": "https://www.indiabix.com/group-discussion/retirement-age-for-politicians/",
+    "tokens": [
+      "retirement",
+      "age",
+      "politicians"
+    ]
+  },
+  {
+    "id": 67,
+    "question": "Politics is run by the Barrel of Gun",
+    "category": "Group Discussion",
+    "source": "IndiaBIX",
+    "url": "https://www.indiabix.com/group-discussion/politics-is-run-by-the-barrel-of-gun/",
+    "tokens": [
+      "politics",
+      "run",
+      "by",
+      "barrel",
+      "gun"
+    ]
+  },
+  {
+    "id": 68,
+    "question": "Need for Good Leaders in India",
+    "category": "Group Discussion",
+    "source": "IndiaBIX",
+    "url": "https://www.indiabix.com/group-discussion/need-for-good-leaders-in-india/",
+    "tokens": [
+      "need",
+      "good",
+      "leaders",
+      "india"
+    ]
+  },
+  {
+    "id": 69,
+    "question": "The Way Forward for India is to Join Hands with Pakistan on Nuclear Matters",
+    "category": "Group Discussion",
+    "source": "IndiaBIX",
+    "url": "https://www.indiabix.com/group-discussion/the-way-forward-for-india-is-to-join-hands-with-pakistan-on-nuclear-matters/",
+    "tokens": [
+      "way",
+      "forward",
+      "india",
+      "join",
+      "hands",
+      "with",
+      "pakistan",
+      "nuclear",
+      "matters"
+    ]
+  },
+  {
+    "id": 70,
+    "question": "Should We Pursue our Policy of Dialogue with Pakistan?",
+    "category": "Group Discussion",
+    "source": "IndiaBIX",
+    "url": "https://www.indiabix.com/group-discussion/should-we-pursue-our-policy-of-dialogue-with-pakistan/",
+    "tokens": [
+      "should",
+      "we",
+      "pursue",
+      "our",
+      "policy",
+      "dialogue",
+      "with",
+      "pakistan"
+    ]
+  },
+  {
+    "id": 71,
+    "question": "Voters, not Political Parties, are Responsible for the Criminalization of Politics",
+    "category": "Group Discussion",
+    "source": "IndiaBIX",
+    "url": "https://www.indiabix.com/group-discussion/voters-not-political-parties-are-responsible-for-the-criminalization-of-politics/",
+    "tokens": [
+      "voters",
+      "not",
+      "political",
+      "parties",
+      "are",
+      "responsible",
+      "criminalization",
+      "politics"
+    ]
+  },
+  {
+    "id": 72,
+    "question": "Necessity of Women Quota Bill for Women Empowerment",
+    "category": "Group Discussion",
+    "source": "IndiaBIX",
+    "url": "https://www.indiabix.com/group-discussion/necessity-of-women-quota-bill-for-women-empowerment/",
+    "tokens": [
+      "necessity",
+      "women",
+      "quota",
+      "bill",
+      "women",
+      "empowerment"
+    ]
+  },
+  {
+    "id": 73,
+    "question": "Educational qualification for Politicians",
+    "category": "Group Discussion",
+    "source": "IndiaBIX",
+    "url": "https://www.indiabix.com/group-discussion/educational-qualification-for-politicians/",
+    "tokens": [
+      "educational",
+      "qualification",
+      "politicians"
+    ]
+  },
+  {
+    "id": 74,
+    "question": "Is our Political System Reason for our Backwardness?",
+    "category": "Group Discussion",
+    "source": "IndiaBIX",
+    "url": "https://www.indiabix.com/group-discussion/is-our-political-system-reason-for-our-backwardness/",
+    "tokens": [
+      "our",
+      "political",
+      "system",
+      "reason",
+      "our",
+      "backwardness"
+    ]
+  },
+  {
+    "id": 75,
+    "question": "Is Foreign Direct Investment (FDI) in retail sector good for India?",
+    "category": "Group Discussion",
+    "source": "IndiaBIX",
+    "url": "https://www.indiabix.com/group-discussion/is-foreign-direct-investment-fdi-in-retail-sector-good-for-india/",
+    "tokens": [
+      "foreign",
+      "direct",
+      "investment",
+      "fdi",
+      "retail",
+      "sector",
+      "good",
+      "india"
+    ]
+  },
+  {
+    "id": 76,
+    "question": "Water resources should be nationalised",
+    "category": "Group Discussion",
+    "source": "IndiaBIX",
+    "url": "https://www.indiabix.com/group-discussion/water-resources-should-be-nationalised/",
+    "tokens": [
+      "water",
+      "resources",
+      "should",
+      "be",
+      "nationalised"
+    ]
+  },
+  {
+    "id": 77,
+    "question": "Trade can help the poor?",
+    "category": "Group Discussion",
+    "source": "IndiaBIX",
+    "url": "https://www.indiabix.com/group-discussion/trade-can-help-the-poor/",
+    "tokens": [
+      "trade",
+      "can",
+      "help",
+      "poor"
+    ]
+  },
+  {
+    "id": 78,
+    "question": "What we need to reduce scams is better regulatory bodies.",
+    "category": "Group Discussion",
+    "source": "IndiaBIX",
+    "url": "https://www.indiabix.com/group-discussion/what-we-need-to-reduce-scams-is-better-regulatory-bodies/",
+    "tokens": [
+      "what",
+      "we",
+      "need",
+      "reduce",
+      "scams",
+      "better",
+      "regulatory",
+      "bodies"
+    ]
+  },
+  {
+    "id": 79,
+    "question": "Who says MNCs are superior to Indian companies?",
+    "category": "Group Discussion",
+    "source": "IndiaBIX",
+    "url": "https://www.indiabix.com/group-discussion/who-says-mncs-are-superior-to-indian-companies/",
+    "tokens": [
+      "who",
+      "says",
+      "mncs",
+      "are",
+      "superior",
+      "indian",
+      "companies"
+    ]
+  },
+  {
+    "id": 80,
+    "question": "Should important services like transport be left to market forces?.",
+    "category": "Group Discussion",
+    "source": "IndiaBIX",
+    "url": "https://www.indiabix.com/group-discussion/should-important-services-like-transport-be-left-to-market-forces/",
+    "tokens": [
+      "should",
+      "important",
+      "services",
+      "like",
+      "transport",
+      "be",
+      "left",
+      "market",
+      "forces"
+    ]
+  },
+  {
+    "id": 81,
+    "question": "Should businessmen run the finance ministry?",
+    "category": "Group Discussion",
+    "source": "IndiaBIX",
+    "url": "https://www.indiabix.com/group-discussion/should-businessmen-run-the-finance-ministry/",
+    "tokens": [
+      "should",
+      "businessmen",
+      "run",
+      "finance",
+      "ministry"
+    ]
+  },
+  {
+    "id": 82,
+    "question": "Economic freedom not old fashioned theories of development will lead to growth and prosperity",
+    "category": "Group Discussion",
+    "source": "IndiaBIX",
+    "url": "https://www.indiabix.com/group-discussion/economic-freedom-not-old-fashioned-theories-of-development-will-lead-to-growth-and-prosperity/",
+    "tokens": [
+      "economic",
+      "freedom",
+      "not",
+      "old",
+      "fashioned",
+      "theories",
+      "development",
+      "will",
+      "lead",
+      "growth",
+      "and",
+      "prosperity"
+    ]
+  },
+  {
+    "id": 83,
+    "question": "Globalization vs. Nationalism",
+    "category": "Group Discussion",
+    "source": "IndiaBIX",
+    "url": "https://www.indiabix.com/group-discussion/globalization-vs-nationalism/",
+    "tokens": [
+      "globalization",
+      "vs",
+      "nationalism"
+    ]
+  },
+  {
+    "id": 84,
+    "question": "Reforms have to grow up.",
+    "category": "Group Discussion",
+    "source": "IndiaBIX",
+    "url": "https://www.indiabix.com/group-discussion/reforms-have-to-grow-up/",
+    "tokens": [
+      "reforms",
+      "have",
+      "grow",
+      "up"
+    ]
+  },
+  {
+    "id": 85,
+    "question": "Government should clean its own hands before pointing finger at the private sector for corruption.",
+    "category": "Group Discussion",
+    "source": "IndiaBIX",
+    "url": "https://www.indiabix.com/group-discussion/government-should-clean-its-own-hands-before-pointing-finger-at-the-private-sector-for-corruption/",
+    "tokens": [
+      "government",
+      "should",
+      "clean",
+      "its",
+      "own",
+      "hands",
+      "before",
+      "pointing",
+      "finger",
+      "at",
+      "private",
+      "sector",
+      "corruption"
+    ]
+  },
+  {
+    "id": 86,
+    "question": "Foreign aid is a dangerous drug that can stimulate in small doses but become fatally addictive in larger doses.",
+    "category": "Group Discussion",
+    "source": "IndiaBIX",
+    "url": "https://www.indiabix.com/group-discussion/foreign-aid-is-a-dangerous-drug-that-can-stimulate-in-small-doses-but-become-fatally-addictive-in-larger-doses/",
+    "tokens": [
+      "foreign",
+      "aid",
+      "dangerous",
+      "drug",
+      "that",
+      "can",
+      "stimulate",
+      "small",
+      "doses",
+      "but",
+      "become",
+      "fatally",
+      "addictive",
+      "larger",
+      "doses"
+    ]
+  },
+  {
+    "id": 87,
+    "question": "Are co-operatives relevant in today's globalised environment?",
+    "category": "Group Discussion",
+    "source": "IndiaBIX",
+    "url": "https://www.indiabix.com/group-discussion/are-co-operatives-relevant-in-todays-globalised-environment/",
+    "tokens": [
+      "are",
+      "cooperatives",
+      "relevant",
+      "todays",
+      "globalised",
+      "environment"
+    ]
+  },
+  {
+    "id": 88,
+    "question": "Is disinvestment really that good for India or is a rethink in order?",
+    "category": "Group Discussion",
+    "source": "IndiaBIX",
+    "url": "https://www.indiabix.com/group-discussion/is-disinvestment-really-that-good-for-india-or-is-a-rethink-in-order/",
+    "tokens": [
+      "disinvestment",
+      "really",
+      "that",
+      "good",
+      "india",
+      "or",
+      "rethink",
+      "order"
+    ]
+  },
+  {
+    "id": 89,
+    "question": "Every Cloud has a Silver Lining",
+    "category": "Group Discussion",
+    "source": "IndiaBIX",
+    "url": "https://www.indiabix.com/group-discussion/every-cloud-has-a-silver-lining/",
+    "tokens": [
+      "every",
+      "cloud",
+      "has",
+      "silver",
+      "lining"
+    ]
+  },
+  {
+    "id": 90,
+    "question": "In our economic matters, there is an excessive tendency towards the thinking rather than doing.",
+    "category": "Group Discussion",
+    "source": "IndiaBIX",
+    "url": "https://www.indiabix.com/group-discussion/in-our-economic-matters-there-is-an-excessive-tendency-towards-the-thinking-rather-than-doing/",
+    "tokens": [
+      "our",
+      "economic",
+      "matters",
+      "there",
+      "excessive",
+      "tendency",
+      "towards",
+      "thinking",
+      "rather",
+      "than",
+      "doing"
+    ]
+  },
+  {
+    "id": 91,
+    "question": "Technology Creates Income Disparities",
+    "category": "Group Discussion",
+    "source": "IndiaBIX",
+    "url": "https://www.indiabix.com/group-discussion/technology-creates-income-disparities/",
+    "tokens": [
+      "technology",
+      "creates",
+      "income",
+      "disparities"
+    ]
+  },
+  {
+    "id": 92,
+    "question": "Skilled Manpower Shortage in India",
+    "category": "Group Discussion",
+    "source": "IndiaBIX",
+    "url": "https://www.indiabix.com/group-discussion/skilled-manpower-shortage-in-india/",
+    "tokens": [
+      "skilled",
+      "manpower",
+      "shortage",
+      "india"
+    ]
+  },
+  {
+    "id": 93,
+    "question": "Use of Force by Banks to Recover Loans",
+    "category": "Group Discussion",
+    "source": "IndiaBIX",
+    "url": "https://www.indiabix.com/group-discussion/use-of-force-by-banks-to-recover-loans/",
+    "tokens": [
+      "use",
+      "force",
+      "by",
+      "banks",
+      "recover",
+      "loans"
+    ]
+  },
+  {
+    "id": 94,
+    "question": "Should India break Diplomatic Ties with Pakistan?",
+    "category": "Group Discussion",
+    "source": "IndiaBIX",
+    "url": "https://www.indiabix.com/group-discussion/should-india-break-diplomatic-ties-with-pakistan/",
+    "tokens": [
+      "should",
+      "india",
+      "break",
+      "diplomatic",
+      "ties",
+      "with",
+      "pakistan"
+    ]
+  },
+  {
+    "id": 95,
+    "question": "Privatization will lead to Less Corruption",
+    "category": "Group Discussion",
+    "source": "IndiaBIX",
+    "url": "https://www.indiabix.com/group-discussion/privatization-will-lead-to-less-corruption/",
+    "tokens": [
+      "privatization",
+      "will",
+      "lead",
+      "less",
+      "corruption"
+    ]
+  },
+  {
+    "id": 96,
+    "question": "Advertising is a Waste of Resources",
+    "category": "Group Discussion",
+    "source": "IndiaBIX",
+    "url": "https://www.indiabix.com/group-discussion/advertising-is-a-waste-of-resources/",
+    "tokens": [
+      "advertising",
+      "waste",
+      "resources"
+    ]
+  },
+  {
+    "id": 97,
+    "question": "Is MNCs Superior to Indian Companies?",
+    "category": "Group Discussion",
+    "source": "IndiaBIX",
+    "url": "https://www.indiabix.com/group-discussion/is-mncs-superior-to-indian-companies/",
+    "tokens": [
+      "mncs",
+      "superior",
+      "indian",
+      "companies"
+    ]
+  },
+  {
+    "id": 98,
+    "question": "Should Agricultural Subsidies be stopped?",
+    "category": "Group Discussion",
+    "source": "IndiaBIX",
+    "url": "https://www.indiabix.com/group-discussion/should-agricultural-subsidies-be-stopped/",
+    "tokens": [
+      "should",
+      "agricultural",
+      "subsidies",
+      "be",
+      "stopped"
+    ]
+  },
+  {
+    "id": 99,
+    "question": "Is the Budgeting Exercise of any Use?",
+    "category": "Group Discussion",
+    "source": "IndiaBIX",
+    "url": "https://www.indiabix.com/group-discussion/is-the-budgeting-exercise-of-any-use/",
+    "tokens": [
+      "budgeting",
+      "exercise",
+      "any",
+      "use"
+    ]
+  },
+  {
+    "id": 100,
+    "question": "Government Pumping Money into the Economy is not the Solution for our Economic Problems",
+    "category": "Group Discussion",
+    "source": "IndiaBIX",
+    "url": "https://www.indiabix.com/group-discussion/government-pumping-money-into-the-economy-is-not-the-solution-for-our-economic-problems/",
+    "tokens": [
+      "government",
+      "pumping",
+      "money",
+      "into",
+      "economy",
+      "not",
+      "solution",
+      "our",
+      "economic",
+      "problems"
+    ]
+  },
+  {
+    "id": 101,
+    "question": "How can a Business get rid of the Bad Name that it has earned?",
+    "category": "Group Discussion",
+    "source": "IndiaBIX",
+    "url": "https://www.indiabix.com/group-discussion/how-can-a-business-get-rid-of-the-bad-name-that-it-has-earned/",
+    "tokens": [
+      "how",
+      "can",
+      "business",
+      "get",
+      "rid",
+      "bad",
+      "name",
+      "that",
+      "it",
+      "has",
+      "earned"
+    ]
+  },
+  {
+    "id": 102,
+    "question": "Capitalism is a very Flawed System but the others are so much worse",
+    "category": "Group Discussion",
+    "source": "IndiaBIX",
+    "url": "https://www.indiabix.com/group-discussion/capitalism-is-a-very-flawed-system-but-the-others-are-so-much-worse/",
+    "tokens": [
+      "capitalism",
+      "very",
+      "flawed",
+      "system",
+      "but",
+      "others",
+      "are",
+      "so",
+      "much",
+      "worse"
+    ]
+  },
+  {
+    "id": 103,
+    "question": "Public Sector being a Guarantor of Job Security is a Myth",
+    "category": "Group Discussion",
+    "source": "IndiaBIX",
+    "url": "https://www.indiabix.com/group-discussion/public-sector-being-a-guarantor-of-job-security-is-a-myth/",
+    "tokens": [
+      "public",
+      "sector",
+      "being",
+      "guarantor",
+      "job",
+      "security",
+      "myth"
+    ]
+  },
+  {
+    "id": 104,
+    "question": "Is the Business of Business only Business?",
+    "category": "Group Discussion",
+    "source": "IndiaBIX",
+    "url": "https://www.indiabix.com/group-discussion/is-the-business-of-business-only-business/",
+    "tokens": [
+      "business",
+      "business",
+      "only",
+      "business"
+    ]
+  },
+  {
+    "id": 105,
+    "question": "Is the Patents Bill Good for India?",
+    "category": "Group Discussion",
+    "source": "IndiaBIX",
+    "url": "https://www.indiabix.com/group-discussion/is-the-patents-bill-good-for-india/",
+    "tokens": [
+      "patents",
+      "bill",
+      "good",
+      "india"
+    ]
+  },
+  {
+    "id": 106,
+    "question": "Is there any Point in having a Business Strategy when the World changes from Month to Month?",
+    "category": "Group Discussion",
+    "source": "IndiaBIX",
+    "url": "https://www.indiabix.com/group-discussion/is-there-any-point-in-having-a-business-strategy-when-the-world-changes-from-month-to-month/",
+    "tokens": [
+      "there",
+      "any",
+      "point",
+      "having",
+      "business",
+      "strategy",
+      "when",
+      "world",
+      "changes",
+      "from",
+      "month",
+      "month"
+    ]
+  },
+  {
+    "id": 107,
+    "question": "Commercialization of Health Care: Good or Bad?",
+    "category": "Group Discussion",
+    "source": "IndiaBIX",
+    "url": "https://www.indiabix.com/group-discussion/commercialization-of-health-care-good-or-bad/",
+    "tokens": [
+      "commercialization",
+      "health",
+      "care",
+      "good",
+      "or",
+      "bad"
+    ]
+  },
+  {
+    "id": 108,
+    "question": "Is the Consumer really the King in India?",
+    "category": "Group Discussion",
+    "source": "IndiaBIX",
+    "url": "https://www.indiabix.com/group-discussion/is-the-consumer-really-the-king-in-india/",
+    "tokens": [
+      "consumer",
+      "really",
+      "king",
+      "india"
+    ]
+  },
+  {
+    "id": 109,
+    "question": "Ethics in Business are just a Passing Fad",
+    "category": "Group Discussion",
+    "source": "IndiaBIX",
+    "url": "https://www.indiabix.com/group-discussion/ethics-in-business-are-just-a-passing-fad/",
+    "tokens": [
+      "ethics",
+      "business",
+      "are",
+      "just",
+      "passing",
+      "fad"
+    ]
+  },
+  {
+    "id": 110,
+    "question": "Are Indians Less Quality Conscious?",
+    "category": "Group Discussion",
+    "source": "IndiaBIX",
+    "url": "https://www.indiabix.com/group-discussion/are-indians-less-quality-conscious/",
+    "tokens": [
+      "are",
+      "indians",
+      "less",
+      "quality",
+      "conscious"
+    ]
+  },
+  {
+    "id": 111,
+    "question": "Multinational Corporations: Are they Devils in Disguise?",
+    "category": "Group Discussion",
+    "source": "IndiaBIX",
+    "url": "https://www.indiabix.com/group-discussion/multinational-corporations-are-they-devils-in-disguise/",
+    "tokens": [
+      "multinational",
+      "corporations",
+      "are",
+      "they",
+      "devils",
+      "disguise"
+    ]
+  },
+  {
+    "id": 112,
+    "question": "How to Deal with High Oil Prices?",
+    "category": "Group Discussion",
+    "source": "IndiaBIX",
+    "url": "https://www.indiabix.com/group-discussion/how-to-deal-with-high-oil-prices/",
+    "tokens": [
+      "how",
+      "deal",
+      "with",
+      "high",
+      "oil",
+      "prices"
+    ]
+  },
+  {
+    "id": 113,
+    "question": "Should the public sector be privatized?",
+    "category": "Group Discussion",
+    "source": "IndiaBIX",
+    "url": "https://www.indiabix.com/group-discussion/should-the-public-sector-be-privatized/",
+    "tokens": [
+      "should",
+      "public",
+      "sector",
+      "be",
+      "privatized"
+    ]
+  },
+  {
+    "id": 114,
+    "question": "Rise of Regional Blocs Threatens Independent Nations like India",
+    "category": "Group Discussion",
+    "source": "IndiaBIX",
+    "url": "https://www.indiabix.com/group-discussion/rise-of-regional-blocs-threatens-independent-nations-like-india/",
+    "tokens": [
+      "rise",
+      "regional",
+      "blocs",
+      "threatens",
+      "independent",
+      "nations",
+      "like",
+      "india"
+    ]
+  },
+  {
+    "id": 115,
+    "question": "We Need Drinking Water and Not Coke & Pepsi in Rural India",
+    "category": "Group Discussion",
+    "source": "IndiaBIX",
+    "url": "https://www.indiabix.com/group-discussion/we-need-drinking-water-and-not-coke-pepsi-in-rural-india/",
+    "tokens": [
+      "we",
+      "need",
+      "drinking",
+      "water",
+      "and",
+      "not",
+      "coke",
+      "pepsi",
+      "rural",
+      "india"
+    ]
+  },
+  {
+    "id": 116,
+    "question": "Why can't India be a World-Class Player in Manufacturing Industry as it is in IT & BPO Sectors?",
+    "category": "Group Discussion",
+    "source": "IndiaBIX",
+    "url": "https://www.indiabix.com/group-discussion/why-cant-india-be-a-world-class-player-in-manufacturing-industry-as-it-is-in-it-bpo-sectors/",
+    "tokens": [
+      "why",
+      "cant",
+      "india",
+      "be",
+      "worldclass",
+      "player",
+      "manufacturing",
+      "industry",
+      "as",
+      "it",
+      "it",
+      "bpo",
+      "sectors"
+    ]
+  },
+  {
+    "id": 117,
+    "question": "Banning of Trade Unions will be Beneficial in Growth of the Economy",
+    "category": "Group Discussion",
+    "source": "IndiaBIX",
+    "url": "https://www.indiabix.com/group-discussion/banning-of-trade-unions-will-be-beneficial-in-growth-of-the-economy/",
+    "tokens": [
+      "banning",
+      "trade",
+      "unions",
+      "will",
+      "be",
+      "beneficial",
+      "growth",
+      "economy"
+    ]
+  },
+  {
+    "id": 118,
+    "question": "What shall we do about our Ever-Increasing Population?",
+    "category": "Group Discussion",
+    "source": "IndiaBIX",
+    "url": "https://www.indiabix.com/group-discussion/what-shall-we-do-about-our-ever-increasing-population/",
+    "tokens": [
+      "what",
+      "shall",
+      "we",
+      "do",
+      "about",
+      "our",
+      "everincreasing",
+      "population"
+    ]
+  },
+  {
+    "id": 119,
+    "question": "Is Globalization Really Necessary?",
+    "category": "Group Discussion",
+    "source": "IndiaBIX",
+    "url": "https://www.indiabix.com/group-discussion/is-globalization-really-necessary/",
+    "tokens": [
+      "globalization",
+      "really",
+      "necessary"
+    ]
+  },
+  {
+    "id": 120,
+    "question": "Indian Economy: Old Wine in New Bottle!",
+    "category": "Group Discussion",
+    "source": "IndiaBIX",
+    "url": "https://www.indiabix.com/group-discussion/indian-economy-old-wine-in-new-bottle/",
+    "tokens": [
+      "indian",
+      "economy",
+      "old",
+      "wine",
+      "new",
+      "bottle"
+    ]
+  }
+]
