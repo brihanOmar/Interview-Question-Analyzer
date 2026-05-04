@@ -2,8 +2,10 @@
 
 import string
 
-STOPWORDS = {"the", "is", "a", "an", "in", "on", "for", "to", "of"}
-
+STOPWORDS = {
+    "the","is","a","an","in","on","for","to","of",
+    "and","or","are","we","be","should","can","will","do"
+}
 
 def clean_text(text):
     text = (text or "").lower()

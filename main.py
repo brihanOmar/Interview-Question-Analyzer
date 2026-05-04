@@ -25,8 +25,17 @@ def main():
     records = scrape_questions(urls, output_path="storage/dataset.json", limit=120)
     print(f"  scraped {len(records)} raw records")
 
+    print("\n=== BEFORE CLEANING ===")
+    print("Total records:", len(records))
+
+    empty = sum(1 for r in records if not r.get("question"))
+    print("Empty questions:", empty)
+
     print("[4/8] Cleaning text ...")
     records = add_tokens(records)
+
+    print("\n=== AFTER CLEANING ===")
+    print("Total records:", len(records))
 
     print("[5/8] Running data quality checks ...")
     records = quality_filter(records)
@@ -41,8 +50,14 @@ def main():
     print("[8/8] Generating charts ...")
     plot_word_frequency(eda["top10"])
     plot_question_lengths(eda["lengths"])
-    print("Pipeline complete.")
 
+    print("[9/9] Exporting to Excel ...")
+    import pandas as pd
+    df = pd.DataFrame(records)
+    df.to_excel("dataset.xlsx", index=False)
+    print("Excel file saved as dataset.xlsx")
+
+    print("Pipeline complete.")
 
 if __name__ == "__main__":
     main()
